@@ -7,6 +7,8 @@ You will be assessed on the design skills you demonstrate, rather than your prof
 the requirements are simple, you should aim to deliver a product that can be easily extended in the future. Feel free
 to provide notes with your submission explaining any decisions or shortcuts you deem appropriate.
 
+# Please refer to the word document "BigCommerce Candidate Assignment.docx" that explains various parts of the assignment from design and implementation point of view. 
+
 This application is to connect to a [live BigCommerce store](https://store-velgoi8q0k.mybigcommerce.com) via the
 [V2 API](https://developer.bigcommerce.com/api/v2/). The application will consist of the following screens:
 * A list of Customers, including the total number of orders they have placed
